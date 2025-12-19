@@ -28,7 +28,7 @@ This portfolio is not just a static website; it is a fully deployed cloud soluti
 4.  **Invalidation:** Use `/*` to clear the cache when updating files.
 
 ## 🔗 Live Demo
-Check out the live site here: **[PASTE YOUR CLOUDFRONT URL HERE]**
+Check out the live site here: **[d2f68vd0ntsjbo.cloudfront.net]**
 
 ---
 *Developed by Hans Davidson S | 2025*
